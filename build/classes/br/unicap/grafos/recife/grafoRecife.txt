@@ -1,0 +1,26 @@
+24
+24
+Caixa_Economica_F Lindas_Noivas
+Lindas_Noivas Igreja_N_Sra_Soledade
+Uni_Sao_Miguel Igreja_N_Sra_Soledade
+Igreja_N_Sra_Soledade Valenca_Solucoes
+Valenca_Solucoes Bioface_Radiologia
+Valenca_Solucoes Bodega_do_seu_Ze
+Bodega_do_seu_Ze Unicap
+Unicap Liceu
+Liceu Chengs_Lavanderia
+Chengs_Lavanderia Cons_Reg_Odontologia_PE
+Cons_Reg_Odontologia_PE Mistura_Fina_Rest
+Mistura_Fina_Rest Copy_Lider
+Copy_Lider Igreja_N_Sra_Soledade
+Chengs_Lavanderia ISP_Saude
+ISP_Saude Esuda
+Chengs_Lavanderia Farmacia_Candeia
+Farmacia_Candeia Zili_PE_Hostel_Pousada
+Farmacia_Candeia Don_Papel
+Don_Papel Igreja_Adventista_7_Dia
+Igreja_Adventista_7_Dia Faculdade_Alpha
+Don_Papel Hospital_Militar_Area_Recife
+Hospital_Militar_Area_Recife Faculdade_de_Direito
+Faculdade_de_Direito Camara_Municipal_Recife
+Faculdade_de_Direito Escola_Luiz_Delgado
